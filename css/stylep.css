@@ -14,4 +14,17 @@
 }
 .parceiro{
 	background-color: #85C1E9;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+.p-font{
+	font-size: 20px;
+}
+
+.bg-footer
+{
+	background-color: black;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
